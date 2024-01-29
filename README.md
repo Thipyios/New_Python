@@ -5,16 +5,6 @@
 
  <h5 align="justify">Bem-vindos, onde a arte do desenvolvimento em Python se encontra com a inovação digital, Como entusiastas da programação, decidimos transformar nossa paixão em uma missão. Nossa jornada é dedicada a desvendar os segredos da modularidade em Python e oferecer soluções com objetivo de alcançar novos patamares de eficiência e elegância no código.</h5>
 
-**Funcionalidades do projeto**
-
-- [x] Preparar um pacote datafruta disponibilizando as classes implementadas e o aplicativo
-- [x] Avaliar as limitações dos tipos de dados básicos em Python, apresentando os ndarrays do NumPy como alternativa
-
- **indice**
-
- - <a href="./DataFruta/DescriçaodasAtividades.md">Descrição do projeto DataFruta</a>
-  - <a href="./DataFruta_V1/RevisãodasAtividades.md">Revisao do projeto DataFruta_V1</a>
-  - <a href="./Relatorios/">Relatorios</a>
 
  **Tecnologias ultilizadas**
 
